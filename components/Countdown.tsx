@@ -115,10 +115,6 @@ export default function Countdown() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          <p className='mb-4 text-sm md:text-base uppercase tracking-[0.5em] text-white/70'>
-            July 5, 2026
-          </p>
-
           <h1 className='text-5xl md:text-8xl font-black text-white'>
             YOUTH WEEK
           </h1>
